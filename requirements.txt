@@ -1,16 +1,6 @@
-# Core packages
-streamlit
-numpy
-scipy
-pandas
-matplotlib
-
-# Machine Learning
-scikit-learn
-nltk
-
-# Text processing
-wordcloud
-
-# Model persistence
-pickle5
+streamlit==1.52.2
+numpy==2.4.4
+scipy==1.17.0
+scikit-learn==1.8.0
+nltk==3.9.2
+pandas==2.3.3
